@@ -3,3 +3,4 @@ Git is free software.
 Hello
 I am Lixuanyi
 I am 19 years old
+Creating a new branch is easy for Git
